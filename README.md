@@ -1,6 +1,8 @@
 # BackgroundSwitcher
 Simple background changer for Windows
  
+PLEASE NOTE: To use Pexels you must provide your API key. 
+ 
 BackgroundSwitcher will run slideshow from folder or load images from pexels.com
 
 > For show SlideShow from folder type
